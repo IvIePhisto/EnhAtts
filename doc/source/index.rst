@@ -1,0 +1,2 @@
+.. automodule:: enhatts
+    :no-members:
